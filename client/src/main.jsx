@@ -8,7 +8,7 @@ import "@fontsource/roboto/400.css";
 import "@fontsource/roboto/500.css";
 import "@fontsource/roboto/700.css";
 import "./index.css";
-import router from "./router";
+import router from "./routers";
 import { Container } from "@mui/system";
 import "./firebase/config";
 
